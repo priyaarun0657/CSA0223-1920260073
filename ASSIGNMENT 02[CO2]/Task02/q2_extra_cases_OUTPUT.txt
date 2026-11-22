@@ -1,0 +1,6 @@
+A B | A&&B calls | A||B calls
+0 0 | 0 (1) | 0 (2)
+0 1 | 0 (1) | 1 (2)
+1 0 | 0 (2) | 1 (1)
+1 1 | 1 (2) | 1 (1)
+Observation: && skips RHS when A=0; || skips RHS when A=1.

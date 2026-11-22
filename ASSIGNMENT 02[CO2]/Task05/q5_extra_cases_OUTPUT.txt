@@ -1,0 +1,15 @@
+Number | Prime? | Explanation
+    -5 | NO | less than 2
+     0 | NO | less than 2
+     1 | NO | less than 2
+     2 | YES | no divisor found
+     3 | YES | no divisor found
+     4 | NO | composite/even
+     9 | NO | composite/even
+    25 | NO | composite/even
+    29 | YES | no divisor found
+    97 | YES | no divisor found
+   100 | NO | composite/even
+   101 | YES | no divisor found
+
+Primes from 2 to 100: 25

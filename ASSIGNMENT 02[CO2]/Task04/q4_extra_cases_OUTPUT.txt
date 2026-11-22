@@ -1,0 +1,16 @@
+Marks | Grade | Expected category
+   -1 | ? | invalid
+    0 | F | F
+   49 | F | F
+   50 | D | D
+   59 | D | D
+   60 | C | C
+   69 | C | C
+   70 | B | B
+   79 | B | B
+   80 | A | A
+   89 | A | A
+   90 | S | S
+   99 | S | S
+  100 | S | S
+  101 | ? | invalid

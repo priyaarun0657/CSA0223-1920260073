@@ -1,0 +1,11 @@
+Initial:
+00000000 (0)
+Set bit 2:
+00000100 (4)
+Set bit 5:
+00100100 (36)
+Clear bit 2:
+00100000 (32)
+Toggle bit 5:
+00000000 (0)
+Test bit 0: OFF
