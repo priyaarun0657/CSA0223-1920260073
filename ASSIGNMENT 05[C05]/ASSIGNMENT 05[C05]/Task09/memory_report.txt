@@ -1,1 +1,0 @@
-Sample 5 donors: capacity 8; sizeof(Donor) is implementation-specific; allocated bytes = capacity * sizeof(Donor).

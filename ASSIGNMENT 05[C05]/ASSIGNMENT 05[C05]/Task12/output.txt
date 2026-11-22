@@ -1,3 +1,0 @@
-Assignment report created.
-Design: modular functions, recursion, pointers, dynamic allocation, files.
-Conclusion: choose data structures and storage based on measured workload.

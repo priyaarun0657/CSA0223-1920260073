@@ -1,5 +1,0 @@
-records,text_bytes,binary_bytes,notes
-10,estimated,estimated,small sample
-1000,measure locally,measure locally,repeat 5 times
-10000,measure locally,measure locally,repeat 5 times
-100000,measure locally,measure locally,repeat 5 times

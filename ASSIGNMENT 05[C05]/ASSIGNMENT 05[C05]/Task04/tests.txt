@@ -1,1 +1,0 @@
-Initial capacity 0; first append capacity 2; third append capacity 4; fifth append capacity 8.

@@ -1,4 +1,0 @@
-case1: not eligible
-case2: not eligible
-case3: eligible
-case4: eligible
