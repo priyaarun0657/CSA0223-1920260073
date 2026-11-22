@@ -1,7 +1,5 @@
 # CSA02 C Programming - Assignment 1 (CO1) - Grama Jyothi billing
 
-- Student name: <YOUR NAME>
-- Register number: <YOUR REGISTER NUMBER>
 - Compiler: gcc 13.3.0 (Ubuntu 24.04)
 - Compile command: `gcc -std=c11 -Wall -Wextra -o prog prog.c -lm`
 - Run: `bash TaskNN/run.sh` in each folder (compiles, runs, saves `output_*.txt`); `bash Task01/run.sh` etc.
