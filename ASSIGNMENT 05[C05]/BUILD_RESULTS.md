@@ -1,0 +1,1 @@
+# Build results\nAll included C programs were compiled with GCC using `-std=c11 -Wall -Wextra`. Output screenshots are stored in each task folder. Actual performance measurements are intentionally marked for local measurement where they depend on hardware.\n
