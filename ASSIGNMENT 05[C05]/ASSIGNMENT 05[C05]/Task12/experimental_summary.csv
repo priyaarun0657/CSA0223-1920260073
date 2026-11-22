@@ -1,0 +1,5 @@
+experiment,expected trend,actual measurement
+linear power,calls grow linearly,record on local system
+fast power,calls grow logarithmically,record on local system
+text file,size larger and rewrite slower,record on local system
+binary file,compact and fixed-record update,record on local system
