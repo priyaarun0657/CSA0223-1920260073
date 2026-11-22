@@ -1,0 +1,1 @@
+Valid=8 Invalid=3\nTop candidate 1: 2 votes\nTop candidate 2: 2 votes\nTop candidate 3: 2 votes\nElection result: TIE

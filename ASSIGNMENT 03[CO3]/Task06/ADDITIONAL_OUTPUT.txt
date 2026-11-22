@@ -1,0 +1,8 @@
+Alphabetical list:
+Ajay
+Ajay
+Meena
+Ravi
+Zara
+Duplicate check:
+Ajay appears more than once\n

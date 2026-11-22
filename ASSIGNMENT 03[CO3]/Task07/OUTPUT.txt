@@ -1,0 +1,9 @@
+Valid votes=14
+Invalid votes=2
+Results:
+Candidate 1: 4 votes
+Candidate 2: 4 votes
+Candidate 3: 3 votes
+Candidate 5: 2 votes
+Candidate 4: 1 votes
+Tie among 2 candidates

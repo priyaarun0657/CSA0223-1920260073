@@ -1,0 +1,4 @@
+Key 1021 | Linear index=2 comparisons=3 | Binary index=0 comparisons=3
+Key 1305 | Linear index=4 comparisons=5 | Binary index=5 comparisons=3
+Key 1533 | Linear index=0 comparisons=1 | Binary index=9 comparisons=4
+Key 1400 | Linear index=-1 comparisons=10 | Binary index=-1 comparisons=4

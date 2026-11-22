@@ -1,0 +1,3 @@
+#include <stdio.h>
+#define C 5
+int main(){int votes[]={1,2,1,3,2,5,1,0,6,4,2,3,3,5,1,2},n=sizeof(votes)/sizeof(votes[0]),counts[C]={0},valid=0,invalid=0;for(int i=0;i<n;i++)if(votes[i]>=1&&votes[i]<=C){counts[votes[i]-1]++;valid++;}else invalid++;int ids[C];for(int i=0;i<C;i++)ids[i]=i+1;for(int i=0;i<C-1;i++)for(int j=0;j<C-i-1;j++)if(counts[ids[j]-1]<counts[ids[j+1]-1]){int t=ids[j];ids[j]=ids[j+1];ids[j+1]=t;}printf("Valid votes=%d\nInvalid votes=%d\n",valid,invalid);puts("Results:");for(int i=0;i<C;i++)printf("Candidate %d: %d votes\n",ids[i],counts[ids[i]-1]);int max=counts[ids[0]-1],ties=0;for(int i=0;i<C;i++)if(counts[i]==max)ties++;if(ties>1)printf("Tie among %d candidates\n",ties);else printf("Winner: Candidate %d\n",ids[0]);}

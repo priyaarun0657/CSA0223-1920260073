@@ -1,0 +1,4 @@
+Words: 7
+Madam, I'm Adam palindrome: Yes
+Hello palindrome: No
+Reversed: MP 5 ta yrarbil eht ta teeM

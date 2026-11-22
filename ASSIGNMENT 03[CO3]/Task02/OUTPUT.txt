@@ -1,0 +1,6 @@
+Bubble: 8 12 17 25 33 42 
+Comparisons=15 operations=10
+Selection: 8 12 17 25 33 42 
+Comparisons=15 operations=4
+Insertion: 8 12 17 25 33 42 
+Comparisons=13 operations=10

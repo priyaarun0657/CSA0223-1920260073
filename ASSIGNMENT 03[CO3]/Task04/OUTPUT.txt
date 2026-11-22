@@ -1,0 +1,8 @@
+Row 1 total=100
+Row 2 total=120
+Row 3 total=125
+Column 1 average=10.00
+Column 2 average=25.00
+Column 3 average=35.00
+Column 4 average=45.00
+Maximum=50 at row 3 column 4

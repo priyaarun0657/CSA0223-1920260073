@@ -1,0 +1,2 @@
+Merged descending: 98 95 91 91 85 80 72 
+Empty-list test: 98 91 85 72 
